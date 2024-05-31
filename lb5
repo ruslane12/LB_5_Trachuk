@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Лабораторна робота № 5</title>
+</head>
+<body>
+    <h1>Лабораторна робота № 5</h1>
+    <p>Ця веб-сторінка створена в рамках лабораторної роботи № 5 з курсу ... (укажіть курс).</p>
+    <footer>
+        <p>&copy; 2024 Ваші ПІБ</p>
+    </footer>
+</body>
+</html>
